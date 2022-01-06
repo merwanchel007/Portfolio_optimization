@@ -1,6 +1,6 @@
 # Portfolio_optimization
 
-Fut un temps les stratégies optimales étaient celles de buy and hold (i.e acheter et garder les actions), cependant lors des dernières décennies cette stratégie semble ne plus optimale.
+Fut un temps les stratégies optimales étaient celles de buy and hold (i.e acheter et garder les actions), cependant lors des dernières décennies cette stratégie semble ne plus être optimale.
 C'est pourquoi il est désormais nécessaire pour les entreprises de gestions d'actifs de créer des portefeuilles optimaux pouvant être modifié "facilement".
 
 C'est dans cet objectif que nous avons designer notre projet.
