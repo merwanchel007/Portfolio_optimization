@@ -12,4 +12,4 @@ Notre programme marche comme suit :
 - Dans un premier temps, nous recupérons les noms des actions qui composent le S&P500.
 - Une fois cela fait, nous récupérons les titres des articles (de news) au sujet de chaques entreprises, puis nous faisons une analyse de sentiment dessus de façon à pouvoir garder uniquement les actions qui ont eu de bonnes nouvelles récemment et donc ont plus de chance d'avoir un cours haussier dans le future.
 - Une fois les 20 actions sélectionnées, nous utilisons un modèle d'optimisation de portefeuille (de markovitz) à l'aide des cours boursiers passés des 20 actions.
-- Enfin cela nous renvoie un portefeuille optimal.
+- Une fois notre portefeuille optimal obtenu, nous faisons une analyse sectorielle de ce dernier de façon à connaître le risque d'exposition en cas de recession sectoriel. (par exemple le covid à eu un risque très négatif sur le milieu de l'avation). Cela serais utile en entreprise puiqu'il pourrait être pertinent pour eux de créer des indicateurs sectoriel de façon à vendre les actions d'un secteur en cas de recession de ce dernier.
